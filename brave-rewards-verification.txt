@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: fishland.tk
+Token: a1841fe7c09016d604be3540560157abee7c97f28439024d948d28445bdfa263
